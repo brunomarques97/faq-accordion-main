@@ -4,7 +4,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main{
-    background-image: url("../assets/images/background-pattern-mobile.svg");
+    background-image: url("./images/background-pattern-mobile.svg");
     background-color: #f9f0ff;
     background-repeat: no-repeat;
     background-size: contain;
@@ -61,7 +61,7 @@ main{
 }
 @media only screen and (min-width: 600px) {
     main {
-      background-image: url(../assets/images/background-pattern-desktop.svg);
+      background-image: url("./images/background-pattern-desktop.svg");
     }
     .banner{
         width: 50vw;
